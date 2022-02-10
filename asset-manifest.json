@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salary/static/css/main.e6c13ad2.css",
+    "main.js": "/salary/static/js/main.2794bac9.js",
+    "static/js/787.9132e351.chunk.js": "/salary/static/js/787.9132e351.chunk.js",
+    "index.html": "/salary/index.html",
+    "main.e6c13ad2.css.map": "/salary/static/css/main.e6c13ad2.css.map",
+    "main.2794bac9.js.map": "/salary/static/js/main.2794bac9.js.map",
+    "787.9132e351.chunk.js.map": "/salary/static/js/787.9132e351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2794bac9.js"
+  ]
+}
